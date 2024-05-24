@@ -30,7 +30,14 @@ body {
   height: 100%;
   padding-bottom: 5px;
   padding: 10px 10px 10px 10px;
+  margin-left: 0;
+  margin-right: 0;
 }
+
+.links-nav {
+  padding-left: 10px;
+}
+
 .links-topo > a {
   text-decoration: none;
   color: #fff;
